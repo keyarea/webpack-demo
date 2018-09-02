@@ -1,3 +1,5 @@
+[![latest webpack version](https://img.shields.io/npm/v/webpack.svg?label=webpack&style=flat-square&maxAge=3600)](https://github.com/webpack/webpack/releases)
+
 
 ## 基本安装
 
